@@ -8,6 +8,7 @@ body {
 
 /* Header section styling */
 header {
+    font-family: cursive;
     background: #000000;
     color: #fff;
     padding: 10px 0;
@@ -108,7 +109,7 @@ button:hover {
     padding: 8px;
     border: 3px solid #ccc;
     border-radius: 8px;
-    background-color: #803201git ;
+    background-color: #803201 ;
     color: white;
 }
 
